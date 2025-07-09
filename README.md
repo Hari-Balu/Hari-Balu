@@ -1,7 +1,7 @@
 <h1 align="center">Hi... I'm Hariharan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Machine+Learning;Natural+Language+Processing+(NLP);Deep+Learning;Generative+AI;Agentic+AI;From+QA+to+Data+Scientist;Always+Learning+%F0%9F%93%9A&font=Fira%20Code&center=true&width=435&height=45&color=00ADB5&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Machine+Learning;Natural+Language+Processing+(NLP);Deep+Learning;Generative+AI;Agentic+AI;From+QA+Engineer+to+Data+Scientist;Always+Learning+%F0%9F%93%9A&font=Fira%20Code&center=true&width=435&height=45&color=00ADB5&vCenter=true&pause=1000" />
 </p>
 
 <p align="center">
