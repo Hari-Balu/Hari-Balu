@@ -97,7 +97,7 @@
 
 ### ⭐ Let's Build and Learn Together!
 
-If my repositories inspire you or help you learn something new, feel free to **⭐ star** them or drop me a message — always open to ideas, feedback, and collaboration!
+If my repositories inspire you or help you learn something new, feel free to **⭐ star** them or drop me a message, always open to ideas, feedback, and collaboration!
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" />
