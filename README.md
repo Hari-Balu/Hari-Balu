@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Quality & Automation Engineer** with a passion for turning intelligent ideas into scalable AI solutions.  
+- 🎓 **Software Test Engineer** with a passion for turning intelligent ideas into scalable AI solutions.  
 - 🧠 Currently transitioning into **Data Science** using real-world projects and tools.  
 - 💡 Passionate about building **AI-powered applications**, especially in **NLP, GenAI, Multimodals, and Angentic AI**.
 
