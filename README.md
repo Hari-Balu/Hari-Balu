@@ -1,14 +1,6 @@
 <h1 align="center">Hi... I'm Hariharan 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Machine+Learning;Natural+Language+Processing+(NLP);Deep+Learning;Generative+AI;Agentic+AI;From+QA+Engineer+to+Data+Scientist;Always+Learning+%F0%9F%93%9A&font=Fira%20Code&center=true&width=435&height=45&color=00ADB5&vCenter=true&pause=1000" />
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
-</p>
-
----
 
 ### 🚀 About Me
 
@@ -117,8 +109,5 @@
 
 ### ⭐ Let's Build and Learn Together!
 
-If my repositories inspire you or help you learn something new, feel free to **⭐ star** them or drop me a message, always open to ideas, feedback, and collaboration!
+If my repositories inspire you or help you learn something new, feel free to **⭐ star** them or drop me a message, always open to ideas, feedback, and collaboration...!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" />
-</p>
