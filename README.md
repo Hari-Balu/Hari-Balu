@@ -59,10 +59,9 @@
 ### 🧪 Testing Tools
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/-TestNG-FE7A16?style=for-the-badge&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![BrowserStack](https://img.shields.io/badge/-BrowserStack-F47A20?style=for-the-badge&logo=browserstack&logoColor=white)
+
 
 ---
 
