@@ -89,7 +89,7 @@ With a strong foundation in **Software Testing** and **Automation**, I bring an 
 
 | Project                                | Description                                                  | Tech Stack                            |
 |----------------------------------------|--------------------------------------------------------------|----------------------------------------|
-| 🎓 **Student Performance Predictor**   | ML project End-to-End with Deployment                          | `Scikit-learn`, `EDA`, `Streamlit`     |
+| 🎓 **Performance Predictor**           | ML project End-to-End with Deployment                          | `Scikit-learn`, `EDA`, `Streamlit`     |
 | 📊 **Sales Dashboard in Power BI**     | KPI-based interactive sales analysis dashboard               | `Power BI`, `DAX`, `Slicers`           |
 | 📩 **Spam Detection (BERT)**           | Classifies emails/text as spam or not using BERT embeddings  | `BERT`, `Transformers`, `HuggingFace`  |
 | 📜 **Fake News Classifier (Bi-LSTM)**  | Detects fake vs. real news using bidirectional LSTM          | `Bi-LSTM`, `TensorFlow`, `NLP`         |
