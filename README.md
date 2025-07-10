@@ -89,11 +89,11 @@ With a strong foundation in **Software Testing** and **Automation**, I bring an 
 
 | Project                                | Description                                                  | Tech Stack                            |
 |----------------------------------------|--------------------------------------------------------------|----------------------------------------|
-| 🎓 **Performance Predictor**           | ML project End-to-End with Deployment                          | `Scikit-learn`, `EDA`, `Streamlit`     |
+| 🎓 **Performance Predictor**           | Predict students' exam scores using demographic, academic, and behavioural features.                         | `Python `, `Pandas `, `Scikit-learn`, `EDA`, `Data Preprocessing`     |
 | 📊 **Sales Dashboard in Power BI**     | KPI-based interactive sales analysis dashboard               | `Power BI`, `DAX`, `Slicers`           |
-| 📩 **Spam Detection (BERT)**           | Classifies emails/text as spam or not using BERT embeddings  | `BERT`, `Transformers`, `HuggingFace`  |
 | 📜 **Fake News Classifier (Bi-LSTM)**  | Detects fake vs. real news using bidirectional LSTM          | `Bi-LSTM`, `TensorFlow`, `NLP`         |
 | 🤖 **Chatbot with RAG**                | Ask questions from PDFs using LangChain + FAISS + OpenAI     | `LangChain`, `RAG`, `OpenAI`, `FAISS`  |
+| 🕵🏻 **Multi-Source Agent with RAG**     | Multi-Source Research Assistant using RAG with ArXiv, Wikipedia & Web Integration  | `LangChain`, `RAG`, `OLlama`, `FAISS`  |
 
 
 👉 [Browse All Repositories](https://github.com/Hari-Balu?tab=repositories)
