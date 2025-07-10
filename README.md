@@ -107,24 +107,6 @@ With a strong foundation in **Software Testing** and **Automation**, I bring an 
 -  Learn **MLOps** & **LLMOps**.  
 -  Continue sharing projects & articles on LinkedIn.
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hari-Balu&show_icons=true&theme=radical" width="45%" />
-  <img src="https://streak-stats.demolab.com/?user=Hari-Balu&theme=radical" width="45%" />
-</p>
-
----
-
-### 📫 To Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hariharan-balasubramanian97"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:hariharanbalasubramanian4@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Hari-Balu"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
-</p>
 
 ---
 
