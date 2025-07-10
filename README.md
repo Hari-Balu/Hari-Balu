@@ -1,12 +1,15 @@
-<h1 align="center">Hi... I'm Hariharan 👋</h1>
+# Hi... I'm Hariharan 👋
 
+A **Software Test Engineer** turning into a **Data Scientist** passionate about building intelligent, scalable, and real-world AI solutions.
 
+With a strong foundation in **Software Testing** and **Automation**, I bring an analytical mindset and attention to detail into the world of **Machine Learning**, **NLP**, **Deep Learning**and **Generative AI**.
 
-### 🚀 About Me
-
-- 🎓 **Software Test Engineer** with a passion for turning intelligent ideas into scalable AI solutions.  
-- 🧠 Currently transitioning into **Data Science** using real-world projects and tools.  
-- 💡 Passionate about building **AI-powered applications**, especially in **NLP, GenAI, Multimodals, and Angentic AI**.
+### 👨‍💻 Expertise in:
+- Designing and deploying **end-to-end ML pipelines**.
+- Creating **GenAI applications** using LangChain, RAG, and OpenAI APIs.
+- Building intelligent **NLP systems** with Transformers, BERT, and spaCy.
+- Crafting insightful **Power BI dashboards** and analytics tools.
+- Applying robust **testing strategies** to validate AI systems.
 
 ---
 
