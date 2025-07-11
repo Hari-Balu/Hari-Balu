@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Hariharan 👋</h1>
 
+<p align="center">
+  <img src="nodes.png" alt="Architecture Nodes" width="50%"/>
+</p>
 
 A **Software Test Engineer** turning into a **Data Scientist** passionate about building intelligent, scalable, and real-world AI solutions.
 
