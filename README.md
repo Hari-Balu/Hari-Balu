@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Hariharan 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hari-Balu/Hari-Balu/main/1_dyn06_XdPWdU3uDtWDfvdw.gif" width="900" alt="AI Coder Animation" />
+  <img src="https://raw.githubusercontent.com/Hari-Balu/Hari-Balu/main/Banner_.gif" alt="Banner GIF" width="50%" />
 </p>
-
 A **Software Test Engineer** turning into a **Data Scientist** passionate about building intelligent, scalable, and real-world AI solutions.
 
 With a strong foundation in **Software Testing** and **Automation**, I bring an analytical mindset and attention to detail into the world of **Machine Learning**, **NLP**, **Deep Learning**and **Generative AI**.
