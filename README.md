@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hariharan 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hari-Balu/Hari-Balu/main/1_dyn06_XdPWdU3uDtWDfvdw.gif" width="1080" alt="AI Coder Animation" />
+  <img src="https://raw.githubusercontent.com/Hari-Balu/Hari-Balu/main/1_dyn06_XdPWdU3uDtWDfvdw.gif" width="900" alt="AI Coder Animation" />
 </p>
 
 A **Software Test Engineer** turning into a **Data Scientist** passionate about building intelligent, scalable, and real-world AI solutions.
