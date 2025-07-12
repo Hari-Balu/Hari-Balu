@@ -91,8 +91,7 @@ With a strong foundation in **Software Testing** and **Automation**, I bring an 
 | Project                                | Description                                                  | Tech Stack                            |
 |----------------------------------------|--------------------------------------------------------------|----------------------------------------|
 | 🎓 **Performance Predictor**           | Predict students' exam scores using demographic, academic, and behavioural features.                         | `Python `, `Pandas `, `Scikit-learn`, `EDA`, `Data Preprocessing`     |
-| 📊 **Sales Dashboard in Power BI**     | KPI-based interactive sales analysis dashboard               | `Power BI`, `DAX`, `Slicers`           |
-| 📜 **Fake News Classifier (Bi-LSTM)**  | Detects fake vs. real news using bidirectional LSTM          | `Bi-LSTM`, `TensorFlow`, `NLP`         |
+| 📰 **Text Summarizer**                 | Summarizing large documents, articles, or news.               | `Python`, `HuggingFace`, `NLP`, `PEGASUS`, `HTML`     |
 | 🤖 **Chatbot with RAG**                | Ask questions from PDFs using LangChain + FAISS + OpenAI     | `LangChain`, `RAG`, `OpenAI`, `FAISS`  |
 | 🕵🏻 **Multi-Source Agent with RAG**     | Multi-Source Research Assistant using RAG with ArXiv, Wikipedia & Web Integration  | `LangChain`, `RAG`, `OLlama`, `FAISS`  |
 
