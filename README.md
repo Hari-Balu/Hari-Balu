@@ -93,6 +93,7 @@ With a strong foundation in **Software Testing** and **Automation**, I bring an 
 | 🎓 **Performance Predictor**           | Predict students' exam scores using demographic, academic, and behavioural features.                         | `Python `, `Pandas `, `Scikit-learn`, `EDA`, `Data Preprocessing`     |
 | 📰 **Text Summarizer**                 | Summarizing large documents, articles, or news.               | `Python`, `HuggingFace`, `NLP`, `PEGASUS`, `HTML`     |
 | 🤖 **Chatbot with RAG**                | Ask questions from PDFs using LangChain + FAISS + OpenAI     | `LangChain`, `RAG`, `OpenAI`, `FAISS`  |
+| 🎧 **Deep Audio Classifier**           | It can recognize and classify sounds from raw audio files.     | `Python`, `TensorFlow`, `Deep Learning`, `Audio`  |
 | 🕵🏻 **Multi-Source Agent with RAG**     | Multi-Source Research Assistant using RAG with ArXiv, Wikipedia & Web Integration  | `LangChain`, `RAG`, `OLlama`, `FAISS`  |
 
 
