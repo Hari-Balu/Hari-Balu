@@ -1,4 +1,4 @@
-# Hi... I'm Hariharan 👋
+# Hi there..! 👋 I'm Hariharan.
 
 
 A **Software Test Engineer** turning into a **Data Scientist** passionate about building intelligent, scalable, and real-world AI solutions.
