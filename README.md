@@ -1,7 +1,7 @@
 # Hi there..! 👋 I'm Hariharan.
 
 
-A **Software Test Engineer** turning into a **Data Scientist** passionate about building intelligent, scalable, and real-world AI solutions.
+A **Data Science Enthusiast** focused on designing scalable, intelligent AI solutions that solve real-world problems.
 
 With a strong foundation in **Software Testing** and **Automation**, I bring an analytical mindset and attention to detail into the world of **Machine Learning**, **NLP**, **Deep Learning**and **Generative AI**.
 
@@ -101,7 +101,7 @@ With a strong foundation in **Software Testing** and **Automation**, I bring an 
 
 ---
 
-### 🎯 Goals for 2025
+### 🎯 Goals
 
 -  Build and publish an LLM-powered **AI agent system**.
 -  Start a **YouTube series** on ML/GenAI walkthroughs . 
