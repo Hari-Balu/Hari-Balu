@@ -1,7 +1,7 @@
 # Hi there..! 👋 I'm Hariharan.
 
 
-A **Data Science Enthusiast** focused on designing scalable, intelligent AI solutions that solve real-world problems.
+An **AI Test Lead** focused on designing scalable, intelligent AI solutions that solve real-world problems.
 
 With a strong foundation in **Software Testing** and **Automation**, I bring an analytical mindset and attention to detail into the world of **Machine Learning**, **NLP**, **Deep Learning**and **Generative AI**.
 
